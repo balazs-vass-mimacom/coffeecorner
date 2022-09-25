@@ -27,3 +27,11 @@ Her Offering
 - If you come across an ambiguous requirement, make a sensible assumption and proceed
   Please deliver all artefacts, so the program and tests can be executed and make them available via Github or bitbucket (our
   Email server otherwise blocks them)
+
+# Requriements
+* Java 11+
+* Maven
+# Run
+In order to run the application run the `Main.java` file.
+
+In order to add more products to the order change it in the `Main.java` file.
